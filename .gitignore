@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+*.db3
+__pycache__/
+*.pyc
+*.user
